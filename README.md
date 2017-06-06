@@ -5,11 +5,12 @@
 @Project: iOi Sphere
 @Filename: README.md
 @Last modified by:   alcwynparker
-@Last modified time: 2017-06-06T14:08:28+01:00
+@Last modified time: 2017-06-06T14:12:26+01:00
 -->
 
 # Arduino-Library
 ![Institute of Imagination](https://raw.githubusercontent.com/iOiSphere/Arduino-Library/master/ioi-logo-large.png)
+![iOi Sphere](https://raw.githubusercontent.com/iOiSphere/Arduino-Library/master/sphere.jpg)
 ---
 The official Arduino Library for iOi Sphere
 ---
