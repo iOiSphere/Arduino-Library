@@ -5,7 +5,7 @@
 @Project: iOi Sphere
 @Filename: README.md
 @Last modified by:   alcwynparker
-@Last modified time: 2017-06-06T14:30:13+01:00
+@Last modified time: 2017-06-06T14:32:07+01:00
 -->
 
 # Arduino-Library
@@ -15,7 +15,7 @@
 The official Arduino Library for iOi Sphere
 ---
 
-#[Documentation](https://ioisphere.github.io/Arduino-Library/)
+# [Documentation](https://ioisphere.github.io/Arduino-Library/)
 
 
 [Follow iOiSphere on Twitter](https://twitter.com/ioisphere)
